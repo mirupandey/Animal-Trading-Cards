@@ -1,0 +1,23 @@
+/* add your CSS here */
+.border{
+	border-style: solid;
+	border-color: #bdbaba;
+	padding:10px;
+}
+.spacing{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.italic{
+	font-style: italic;
+}
+.bold{
+	font-weight: bold;
+}
+.content{
+	padding-bottom: 25px;
+}
+.picture{
+	padding-bottom: 10px;
+	width:300px;
+}
